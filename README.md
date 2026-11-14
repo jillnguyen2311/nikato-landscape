@@ -37,6 +37,8 @@ Nguồn nội dung và hình ảnh là [website Wix của Nikato](https://nguyen
 
 ## Đưa lên domain riêng
 
+GitHub Pages dùng workflow `deploy-pages.yml`. Video nền rừng được lưu thành hai phần để tải lên bằng trình duyệt. Lệnh build tự ghép hai phần thành một tệp MP4.
+
 ### Bản tĩnh trên hosting bất kỳ
 
 1. Chạy `npm.cmd run build`.
