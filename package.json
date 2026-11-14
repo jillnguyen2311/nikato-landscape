@@ -1,0 +1,12 @@
+{
+  "name": "nikato-landscape",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/serve.mjs",
+    "build": "node src/build.mjs",
+    "build:offline": "node src/build.mjs --offline"
+  },
+  "engines": { "node": ">=20" }
+}
